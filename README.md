@@ -40,4 +40,4 @@ I'm an somali full-stack developer and content creator building my version of th
 <br />
  <summary><h3>👨‍💻 Ali bile Coding Journey</h3></summary>
    I started my coding journey as a naive computer Technology student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app. A desire that landed me a full-stack software developer job upon graduation. Now I'm software developer at ANKAGEO Company
-# Ali-bile
+
