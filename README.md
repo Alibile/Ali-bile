@@ -27,8 +27,18 @@ I'm an indie full-stack developer and content creator building my version of the
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
 <br />
-
-<details>
+<h2 align="center" background="#E33D80">Github Stats</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Alibile&show_icons=true&hide=contribs&cache_seconds=86400&theme=radical&bg_color=0D1117&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Alibile&show_icons=true&hide=contribs&cache_seconds=86400&hide_border=true">
+  <img align="left" alt="mehmetfatihturkmenoglu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Alibile&show_icons=true&hide=contribs&cache_seconds=86400&theme=radical&bg_color=0D1117&hide_border=true" width="54%"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Alibile&langs_count=6&layout=compact&theme=radical&bg_color=0D1117&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Alibile&langs_count=6&layout=compact&hide_border=true">
+  <img alt="Top Languages used by me" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alibile&langs_count=6&layout=compact&theme=radical&bg_color=0D1117&hide_border=true" width="40.9%"/>
+</picture>
+<br />
  <summary><h3>👨‍💻 Ali bile Coding Journey</h3></summary>
    I started my coding journey as a naive computer Technology student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app. A desire that landed me a full-stack software developer job upon graduation. Now I'm software developer at ANKAGEO Company
 # Ali-bile
